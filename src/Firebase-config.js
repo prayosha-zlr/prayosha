@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from 'firebase/auth';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD7re4amHAi108EIU-Xn7PutxGczNGrmFE",
-    authDomain: "apitranslate12.firebaseapp.com",
-    projectId: "apitranslate12",
-    storageBucket: "apitranslate12.appspot.com",
-    messagingSenderId: "478932616255",
-    appId: "1:478932616255:web:98f690f589cbb6813a248a",
-    measurementId: "G-5JTMX8N5J8"
-  };
+   const firebaseConfig = {
+  apiKey: "AIzaSyCCC8JMm6sjUwA3Bu7sOi1QJQ7Xv2t44rw",
+  authDomain: "zelar-practise.firebaseapp.com",
+  projectId: "zelar-practise",
+  storageBucket: "zelar-practise.appspot.com",
+  messagingSenderId: "903370382495",
+  appId: "1:903370382495:web:c26bbf2537eb8e9f5c16aa"
+};
 
   const app = initializeApp(firebaseConfig)
 
